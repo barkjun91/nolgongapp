@@ -1,0 +1,30 @@
+mapping_cafeteria
+
+R: 198
+G: 0
+B: 121
+
+mapping_theater
+R:12
+G:32
+B:221
+
+mapping_burger
+R:209
+G:0
+B:0
+
+mapping_cafe
+R:0
+G:141
+B:166
+
+mapping_stairs
+R:0
+G:166
+B:12
+
+mapping_sky
+R:230
+G:114
+B:0

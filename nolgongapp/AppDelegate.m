@@ -10,7 +10,7 @@
 
 #import "AppDelegate.h"
 #import "GameConfig.h"
-#import "FieldLayer.h"
+#import "Openining.h"
 #import "RootViewController.h"
 
 @implementation AppDelegate
@@ -110,7 +110,7 @@
 	[self removeStartupFlicker];
 	
 	// Run the intro Scene
-	[[CCDirector sharedDirector] runWithScene: [FieldLayer scene]];
+	[[CCDirector sharedDirector] runWithScene: [Openining scene]];
 }
 
 
